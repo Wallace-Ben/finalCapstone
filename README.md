@@ -5,8 +5,8 @@ on the data. To prevent overfitting and to increase efficiency and interpretabil
 so it is important to preserve as much information as possible through the remaining variables.
 
 ### Table of Contents
-* [Installation](#Installation)
-* [Usage](#Usage)
+* [Installation](#installation)
+* [Usage](#usage)
 
 ### Installation
 Download the ZIP file located under the green 'Code' tab. This file should contain both the main code and the csv file with
